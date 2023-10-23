@@ -2,7 +2,7 @@
 homework 6 - saucedemo
 
 1.	Feature Login + Negative
- ![Alt text]([screenshots/Login.png](https://github.com/nabilaql/saucedemo-automation/blob/938ddfde614f7adbe8087a734a84ddd2be7a6183/screenshots/Login.png))
+ ![Alt text](screenshots/Login.png)
 2.	Feature Product Checkout functionality
  
  
